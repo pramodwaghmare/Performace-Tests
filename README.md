@@ -1,4 +1,4 @@
-# Performace-Test
+# Performace-Tests
 
 1) Performance test — Pure Python [pure_python_test.py]
     Here’s a list of tasks performed in this benchmark: 
